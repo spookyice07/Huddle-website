@@ -190,7 +190,7 @@ footer{
 }
 
 /*Mobile Screen*/
-@media (min-width:375px) {
+@media (max-width:375px) {
     body{
         font-size:15px;
     }
